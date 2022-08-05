@@ -10,9 +10,9 @@
 
 ## Frameworks
 The whole system will be created with: <br />
-<img src="[https://www.freelogovectors.net/wp-content/uploads/2022/02/doh_logo_department_of_health-freelogovectors.net_.png](https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png)" width="80" height="80">
-<img src="[https://www.freelogovectors.net/wp-content/uploads/2022/02/doh_logo_department_of_health-freelogovectors.net_.png](https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png)" width="80" height="80">
-<img src="[https://www.freelogovectors.net/wp-content/uploads/2022/02/doh_logo_department_of_health-freelogovectors.net_.png](https://www.fullstackpython.com/img/logos/react.png)" width="80" height="80">
+<img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" width="80" height="80">
+<img src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png" width="80" height="80">
+<img src="https://www.fullstackpython.com/img/logos/react.png" width="80" height="80">
 
 * FERN-Firestore
 * Express
