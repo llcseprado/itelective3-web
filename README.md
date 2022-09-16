@@ -10,14 +10,14 @@
 
 ## Frameworks
 The whole system will be created with: <br />
-<img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" width="180" height="80">
+<img src="https://miro.medium.com/max/1400/1*a2Da_CQHUsSKTCTRI2tYhQ.png" width="190" height="80">
 <img src="https://miro.medium.com/max/1051/1*q9myzo5Au8OfsaSrCodNmw.png" width="150" height="80">
 <img src="https://www.fullstackpython.com/img/logos/react.png" width="170" height="80">
 
 * FERN
 * Firestore
 * Express
-* React
+* ReactJS
 * Node
 
 
